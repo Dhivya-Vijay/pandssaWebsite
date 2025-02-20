@@ -1,0 +1,27 @@
+.navbar_logo {
+    width: 16rem;
+}
+
+.nav-link {
+    color: var(--darkColor);
+}
+
+.card-img-top {
+    width: 18rem;
+}
+
+.knownImg {
+    width: 45rem;
+}
+
+.expe_img {
+    width: 50rem;
+}
+
+.list-item a{
+    color: #000000;
+}
+
+.btn {
+    color: var(--primaryColor);
+}
